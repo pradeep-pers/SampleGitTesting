@@ -8,6 +8,8 @@ public class TestCalc {
 		int b=20;
 		int sum= a+b;
 		System.out.println(" Print the Sum:"+sum);
+int sub = a-b;
+System.out.println( " print sub" +sub);
 
 	}
 
